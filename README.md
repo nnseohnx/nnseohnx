@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Seohyeon 👋
 
-<!--
-**nnseohnx/nnseohnx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Student at Chungnam National University  
+Interested in AI, Cloud, and Web Technologies.
 
-Here are some ideas to get you started:
+## Interests
+- Artificial Intelligence
+- Cloud Computing
+- Web Development
+- Google Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- 🔗 [2025 Google Student Ambassador: Achiever](https://www.credential.net/029fcae2-c15b-4ca7-a1db-f9fd76ede79c#acc.MktSxg9i)
+
+## Currently
+- Learning AI & Development
+- Building personal projects
+- Exploring developer communities
